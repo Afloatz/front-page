@@ -119,6 +119,12 @@ section {
     margin: 18px 0 30px;
 }
 
+.section-subscribe .subscription-form::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
 .section-subscribe .subscription-form .subscription-form-input {
     width: 50%;
     float: left;
@@ -147,7 +153,9 @@ section {
     padding: 0 30px;
 }
 
-
+.section-subscribe .video-iframe {
+    border-radius: 7px;
+}
 
 
 
