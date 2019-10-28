@@ -35,3 +35,20 @@
     margin-bottom: 26px;
 }
 
+.page-header .intro-col-left .operating-system {
+    width: 52px;
+    height: 52px;
+    background-color: #030303;
+    opacity: .7;
+    text-align: center;
+    line-height: 52px;
+    color: #fff;
+    float: left;
+    margin-right: 16px;
+    border-radius: 50%;
+    font-size: 25px;
+}
+.page-header .intro-col-left .operating-system:hover {
+    background: #2ecc71;
+    opacity: 1;
+}
