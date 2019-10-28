@@ -1,5 +1,9 @@
 /* Global Styles */
 
+section {
+    padding: 60px 0;
+}
+
 
 
 /*------------------------------------
@@ -39,6 +43,10 @@
     margin-bottom: 26px;
 }
 
+.text-green {
+    color: #2ecc71;
+}
+
 .page-header .intro-col-left .operating-system {
     width: 52px;
     height: 52px;
@@ -64,4 +72,34 @@
 
 .page-header .intro-col-right .intro-img {
     vertical-align: bottom;
+}
+
+
+
+/*------------------------------------
+  1. Feature
+------------------------------------*/
+
+.section-features .feature-col {
+    text-align: center;
+}
+
+.section-features .feature-col {
+    text-align: center;
+}
+
+.section-features .feature-col .feature-img-wrap {
+    width: 98px;
+    height: 98px;
+    border-radius: 50%;
+    background-color: #2ecc71;
+    display: inline-block;
+    margin-bottom: 30px;
+    line-height: 98px;
+}
+
+.section-features .feature-col .feature-img-wrap .feature-icon {
+    color: #fff;
+    font-size: 43px;
+    vertical-align: middle;
 }
