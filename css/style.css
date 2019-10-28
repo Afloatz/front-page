@@ -1,0 +1,15 @@
+/* Global Styles */
+
+
+
+/*------------------------------------
+  0. Header
+------------------------------------*/
+
+.page-header {
+    margin-top: 0;
+    padding: 0;
+    height: 600px;
+    background: url("../img/intro-bg.jpg") no-repeat center;
+    border-top: 10px solid #2ecc71;
+}
