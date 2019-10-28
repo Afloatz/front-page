@@ -170,6 +170,43 @@ section {
     line-height: 30px;
 }
 
+.horizontal-centered-list {
+    padding: 0;
+    font-size: 0;
+    display: inline-block;
+}
+
+.horizontal-centered-list > li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.section-social .social-icon-list {
+    margin: 14px 0 0;
+}
+
+.section-social .social-icon-list .social-icon-item {
+    margin: 0 5px;
+}
+
+.section-social .social-icon-list .social-icon-item .social-icon-link {
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    border-radius: 17px;
+    background-color: #c5c5c5;
+    display: block;
+    font-size: 19px;
+    color: #fff;
+    opacity: .5;
+}
+
+.section-social .social-icon-list .social-icon-item .social-icon-link:hover {
+    background: #2ecc71;
+    opacity: 1;
+}
+
+
 
 
 
