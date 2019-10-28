@@ -13,12 +13,15 @@
     background: url("../img/intro-bg.jpg") no-repeat center;
     border-top: 10px solid #2ecc71;
 }
+
 .page-header .intro-col-left {
     height: 590px;
 }
+
 .page-header .intro-col-left {
     padding-top: 167px;
 }
+
 .page-header .intro-col-left h1 {
     font-family: 'Pacifico', cursive;
     font-size: 60px;
@@ -27,6 +30,7 @@
     color: #ffffff;
     margin: 0 0 36px;
 }
+
 .page-header .intro-col-left p {
     color: #ffffff;
     font-size: 24px;
@@ -48,7 +52,16 @@
     border-radius: 50%;
     font-size: 25px;
 }
+
 .page-header .intro-col-left .operating-system:hover {
     background: #2ecc71;
     opacity: 1;
+}
+
+.page-header .intro-col-right {
+    line-height: 590px;
+}
+
+.page-header .intro-col-right .intro-img {
+    vertical-align: bottom;
 }
