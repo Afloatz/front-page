@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffafaa0d-5bfa-4db3-b144-9672e47c1e11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/img/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/img/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/customer-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/customer-img.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/intro-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/intro-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/iphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path=".gitignore" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3980">
-              <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
+            <state relative-caret-position="200">
+              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -28,8 +26,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="24" selection-end-line="326" />
+            <state relative-caret-position="-1020">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -65,9 +72,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/style.min.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -88,22 +95,6 @@
             <path>
               <item name="front-page" type="b2602c69:ProjectViewProjectNode" />
               <item name="front-page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="front-page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="front-page" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="front-page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="front-page" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="style.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="front-page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="front-page" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,12 +136,12 @@
       <workItem from="1572259140525" duration="242000" />
       <workItem from="1572259773401" duration="18000" />
       <workItem from="1572259837785" duration="15636000" />
-      <workItem from="1572340856489" duration="6300000" />
+      <workItem from="1572340856489" duration="7184000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22196000" />
+    <option name="totallyTimeSpent" value="23080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
@@ -181,16 +172,8 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/img/customer-img.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="24" selection-end-line="326" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -199,10 +182,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3980">
-          <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
+        <state relative-caret-position="200">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
         </state>
       </provider>
     </entry>
