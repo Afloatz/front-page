@@ -246,6 +246,10 @@ p {
     margin-right: 0;
 }
 
+.section-social .customers-list .customer-link:hover {
+    opacity: 0.5;
+}
+
 .section-social .social-icon-list {
     margin: 14px 0 0;
 }
